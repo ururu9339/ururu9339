@@ -1,19 +1,19 @@
 <div align="center">
 
-# Hi, I'm Renielyn "Ren" Lenon.
-### FULL-STACK WEB DEVELOPER
+# Hi, I'm Ururu
+### Full Stack Backend Dev
 ### Laravel • React • WordPress
 
 <br/>
 
-![Manifestation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Everything+is+working+out+for+me.)
+![Manifestation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Just+goofin+aroung.)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://renlenon.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ururu9339)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-blenon/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rblenon18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurik9969888@gmail.com)
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## HEAVENLY RESTRICTION
+## ABOUT ME
 I'm a Full-Stack Web Developer based in San Juan City, Philippines, with a background in Civil Engineering that shaped how I approach software development. I enjoy designing well-structured applications, building with Laravel, React, and WordPress, and integrating AI-powered solutions that solve real business problems. Whether I'm developing client websites or architecting full-stack systems, I focus on writing clean, maintainable code that lasts.
 
 <br/>
@@ -37,7 +37,7 @@ I'm a Full-Stack Web Developer based in San Juan City, Philippines, with a backg
 
 <br/>
 
-## PHYSICAL PROWESS
+## HOBBYS, SIDE-PROJECTS
 Outside of coding, you'll usually find me training Muay Thai, lifting at the gym, dancing, or exploring new places. Staying active helps me recharge and approach problems with a fresh perspective.
 
 <picture>
@@ -48,7 +48,7 @@ Outside of coding, you'll usually find me training Muay Thai, lifting at the gym
 
 ---
 
-## CURSED TOOLS
+## TECH STACK
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Outside of coding, you'll usually find me training Muay Thai, lifting at the gym
 
 <div align="center">
 
-**ALSO IN THE ARSENAL**
+**ADDITIONAL SKILLS**
 <br/>
 <sub>COBOL · Tauri · Rust · Technical SEO · Google Analytics 4 · Google Search Console · Google Business Profile · Google AdSense · Gemini API · OpenAI API · Groq API · Prompt Engineering · Mailchimp · Composer</sub>
 
@@ -71,7 +71,7 @@ Outside of coding, you'll usually find me training Muay Thai, lifting at the gym
 ---
 
 <div align="center">
-  <h3>"Everything is working out for me because I make it happen."</h3>
+  <h3>"PLease give me a job(jk)"</h3>
 </div>
 
 ---
@@ -80,21 +80,21 @@ Outside of coding, you'll usually find me training Muay Thai, lifting at the gym
 
 <div align="center">
 
-<sub><i>Open to full-stack builds, Laravel/WordPress work, and practical web systems.</i></sub>
+<sub><i>Open to collaborations, open-source development, startup opportunities.</i></sub>
 
 <br/>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://renlenon.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ururu9339)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-blenon/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rblenon18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurik9969888@gmail.com)
 
 <br/>
 <br/>
 
-<sub><i>Repetition until it becomes technique.</i></sub>
+<sub><i>Grind for your future.</i></sub>
 <br/>
-<sub>Renielyn Lenon · Still sharpening · San Juan City, PH</sub>
+<sub>Nurali Zhan · Backend Dev · Malaysia, Kl</sub>
 
 </div>
