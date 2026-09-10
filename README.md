@@ -2,7 +2,7 @@
 
 # Hi, I'm Ururu
 ### Full Stack Backend Dev
-### Laravel • React • WordPress
+### C++ • Python • C# • Java
 
 <br/>
 
